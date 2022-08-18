@@ -116,7 +116,8 @@ footer a {
         align-items: center;
     }
     .title {
-        width: 40%;
+        width: 50%;
+        font-size: 2em;
     }
 
     .desc {
@@ -132,6 +133,10 @@ footer a {
 }
 
 @media screen and (min-width: 1000px) {
+    .title {
+        font-size: 2.5em;
+    }
+
     .boxes {
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(2, 1fr);
