@@ -159,6 +159,6 @@ footer a {
     
     .box:last-of-type {
         grid-area: f;
-        bottom: 7em;
+        bottom: 10em;
     }
 }
