@@ -25,15 +25,15 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Four-Card-Feature-Section/blob/main/Mobile%20preview.PNG)
 
 # Tablet Preview
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Four-Card-Feature-Section/blob/main/Tablet%20preview.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/Four-Card-Feature-Section/blob/main/Desktop%20preview.PNG)
 
 
 ### Links
